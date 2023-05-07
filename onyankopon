@@ -43,7 +43,7 @@ body {
 }
 
 .appMount-2yBXZl {
-    background: black url("https://images.pexels.com/photos/2885320/pexels-photo-2885320.jpeg") center/cover no-repeat;
+    background: url("https://i.imgur.com/7gkRhfn.jpeg");
 }
 
 .app-2CXKsg {
