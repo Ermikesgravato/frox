@@ -43,7 +43,7 @@ body {
 }
 
 .appMount-2yBXZl {
-    background: url("https://i.imgur.com/7gkRhfn.jpeg");
+    background: url("https://i.imgur.com/7gkRhfn.jpeg") center/cover no-repeat;
 }
 
 .app-2CXKsg {
